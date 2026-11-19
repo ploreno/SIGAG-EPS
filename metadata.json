@@ -1,0 +1,6 @@
+{
+  "name": "SIGAG-EPS | Gestión de Glosas BDUA",
+  "description": "Sistema de Aclaración y Gestión de Glosas BDUA (Resolución 762 de 2023) para el sector salud en Colombia.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
